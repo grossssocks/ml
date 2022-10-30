@@ -1,0 +1,7 @@
+NumPy is a linear Algebra Library for Python. It is one of the main building blocks for Data Science with Python. It has bindings with C libraries
+To install: 
+In terminal: pip install numpy
+In conda: conda install numpy
+NumPy deals with two types of Arrays:
+Vectors or 1D Arrays
+Matrixes or 2D Arrays
